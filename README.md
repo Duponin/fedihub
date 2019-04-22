@@ -1,6 +1,6 @@
 # Fedihub
 
-Fedihub is an electron app made to connect to many fediverse instances (mastodon, pleroma, etc.). It only needs to have web interface.
+Fedihub is an electron app made to connect to many fediverse instances (mastodon, pleroma, etc.). It only needs to have web interface. It's inspired from Tweeten, a client for Twitter.
 
 # Installation & manual
 
@@ -13,7 +13,6 @@ tab = {
 }
 
 tabGroup.addTab(tab);
-
 ```
 
 Edit it with the `title` you want and your instance's URL `src`.
